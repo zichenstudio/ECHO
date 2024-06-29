@@ -1,6 +1,6 @@
 # ECHO
 
-ECHO是一个简洁而优雅的 Jekyll 主题，专为个人博客和静态网站设计。
+[ECHO](https://github.com/zichenstudio/ECHO)是一个简洁而优雅的 Jekyll 主题，专为个人博客和静态网站设计。
 
 #### 特性
 
